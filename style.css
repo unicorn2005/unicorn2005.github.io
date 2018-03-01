@@ -9,9 +9,11 @@ h1{
   }
   
   body{
-    background-color:#00FFFF ;
+    color:pink ;
   }
   img{
     display: block;
     margin: 0 auto;
   }
+p{
+}
