@@ -1,20 +1,17 @@
-h1{
+h1 {
     text-align: center;
     font-family: Verdana;
     color: #FF1493;
   }
-h3{
+h3 {
     text-align: left;
     text-color: plum;
 }
-body{
+body {
     background-color: #FFC0CB;
     color: blue;
 }
-img{
+img {
     display: block;
     margin: 0 auto;
   }
-
-p{
-}
