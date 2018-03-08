@@ -1,4 +1,5 @@
-h1 { border: black 1px solid; // blue, width, type
+h1 { 
+    border: black 1px solid; 
     text-align: center;
     font-family: Verdana;
     color: #FF1493;
